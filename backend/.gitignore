@@ -1,0 +1,38 @@
+# Maven
+target/
+.classpath
+.project
+.settings/
+*.class
+*.jar
+*.war
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
+.DS_Store
+
+# Quarkus
+.quarkus/
+.gradle/
+build/
+
+# Database
+*.db
+*.sqlite
+
+# Environment
+.env
+.env.local
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Dependencies
+node_modules/
